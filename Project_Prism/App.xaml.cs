@@ -16,7 +16,7 @@ namespace Project_Prism
 
     /// Interaction logic for App.xaml TEst 2.0
 
- 
+    // Hello World 
 
     /// </summary>
     public partial class App : PrismApplication

@@ -477,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism\\Project_Prism.csproj",
+      "projectUniqueName": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism\\Project_Prism.csproj",
       "projectName": "Project_Prism",
-      "projectPath": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism\\Project_Prism.csproj",
+      "projectPath": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism\\Project_Prism.csproj",
       "packagesPath": "C:\\Users\\VAIBHAV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism\\obj\\",
+      "outputPath": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VAIBHAV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -498,8 +498,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism_Modules\\Project_Prism_Modules.csproj": {
-              "projectPath": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism_Modules\\Project_Prism_Modules.csproj"
+            "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism_Modules\\Project_Prism_Modules.csproj": {
+              "projectPath": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism_Modules\\Project_Prism_Modules.csproj"
             }
           }
         }

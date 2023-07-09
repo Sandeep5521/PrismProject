@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism_Modules\\Project_Prism_Modules.csproj",
+      "projectUniqueName": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism_Modules\\Project_Prism_Modules.csproj",
       "projectName": "Project_Prism_Modules",
-      "projectPath": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism_Modules\\Project_Prism_Modules.csproj",
+      "projectPath": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism_Modules\\Project_Prism_Modules.csproj",
       "packagesPath": "C:\\Users\\VAIBHAV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism_Modules\\obj\\",
+      "outputPath": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism_Modules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VAIBHAV\\AppData\\Roaming\\NuGet\\NuGet.Config",
