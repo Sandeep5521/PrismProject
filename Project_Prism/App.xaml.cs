@@ -13,7 +13,11 @@ using System.Windows;
 namespace Project_Prism
 { 
     /// <summary>
-    /// Interaction logic for App.xaml test
+
+    /// Interaction logic for App.xaml TEst 2.0
+
+ 
+
     /// </summary>
     public partial class App : PrismApplication
     {
