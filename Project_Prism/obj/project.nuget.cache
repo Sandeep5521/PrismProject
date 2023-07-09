@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cWdzhtU7bUngSRqUJOsmE9YfRLw7cKU0HWjYaiJ0TLSH/J0jLRSJ4YGGhReE/b5naOe9Y2/p6XdXOvq8tyCprQ==",
+  "dgSpecHash": "aYyMFX0UllySBirgPT1iatBWlV8iAiBckezkYycWKfdJaxvHMrF+zbUlrqkP9r7WiIg3jBdjbmE9r0s3HN6/nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VAIBHAV\\source\\repos\\Project_Prism\\Project_Prism.csproj",
+  "projectFilePath": "C:\\Users\\VAIBHAV\\Desktop\\Vaibhav\\RemoteRepository\\Project_Prism\\Project_Prism.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VAIBHAV\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
     "C:\\Users\\VAIBHAV\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",

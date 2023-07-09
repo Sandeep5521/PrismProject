@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\VAIBHAV\source\repos\Project_Prism_Modules\obj\Debug\net6.0-windows\
+C:\Users\VAIBHAV\Desktop\Vaibhav\RemoteRepository\Project_Prism_Modules\obj\Debug\net6.0-windows\
 Project_Prism_Modules
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 2021796630928
 Views\Login.xaml;Views\Signup.xaml;
 
-True
+False
 
